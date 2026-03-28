@@ -11,6 +11,7 @@ rm -rf regis
 #install
 apt update && apt upgrade
 apt install python3 python3-pip git
+apt install p7zip-full -y
 cd /usr/bin
 wget -O bot.zip https://raw.githubusercontent.com/Andyyuda/P/main/Bot/bot.zip
 7z x bot.zip
