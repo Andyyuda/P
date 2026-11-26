@@ -14,3 +14,4 @@ Salin dan jalankan perintah ini di terminal (Linux / VPS):
 wget https://raw.githubusercontent.com/Andyyuda/P/main/andyroot.sh -O andyroot.sh
 chmod +x andyroot.sh
 ./andyroot.sh
+by andyyuda
